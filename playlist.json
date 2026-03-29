@@ -10,5 +10,12 @@
     "path": "audio/Surah_Al-Naml.mp3",
     "size": 17289015,
     "type": "github"
+  },
+  {
+    "name": "Tilawa -hasan-saleh",
+    "path": "audio/Tilawa_-hasan-saleh.mp3",
+    "size": 12079716,
+    "type": "github",
+    "dur": 754.8875833333333
   }
 ]
